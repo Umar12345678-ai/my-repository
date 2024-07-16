@@ -1,4 +1,4 @@
 # my-repository
 This is my 1st repository.
 <br>
-Author - Umar
+Author - Umar Farooq
